@@ -8,3 +8,7 @@ This project serves as a static demonstration page for an e-commerce site focuse
   - **Products**: Jewelry items are displayed in the center/right side of the page, showcasing images and brief descriptions.  
   - **Categories Column**: Located on the left, it contains links to various jewelry categories (e.g., necklaces, rings, bracelets).  
 - **Footer**: The final section contains links to the imprint, privacy policy, and other relevant resources.  
+
+## Preview 
+
+![Page preview](assets/img/preview.png)
